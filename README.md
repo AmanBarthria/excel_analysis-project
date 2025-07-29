@@ -3,7 +3,6 @@
 Project Overview
 
 Conducted a detailed analysis of retail sales data using advanced Excel tools and formulas. This project focused on understanding sales trends, customer behavior, and product performance through dynamic dashboards and in-depth insights. It highlighted Excel’s ability to support real-time decision-making and business intelligence.
-
 Key Highlights
 
 🧮 Excel Functions Used
