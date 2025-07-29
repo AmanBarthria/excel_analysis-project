@@ -6,7 +6,6 @@ Conducted a detailed analysis of retail sales data using advanced Excel tools an
 Key Highlights
 
 🧮 Excel Functions Used
-
 Data Analysis: SUMIF, COUNTIF, MAX, MIN, AVERAGE, COUNTA, IF, AND, OR
 
 Data Cleaning: TRIM, CLEAN, TEXT, LEN, FIND, REPLACE
